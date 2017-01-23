@@ -1,0 +1,19 @@
+{
+  "name": "personal_server",
+  "version": "1.0.0",
+  "description": "个人网站服务器",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huangyanfeng137@163.com",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "mysql": "^2.11.1",
+    "net": "^1.0.2",
+    "path": "^0.12.7"
+  }
+}
